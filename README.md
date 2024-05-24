@@ -1,5 +1,5 @@
 
 **Dewa Jayon**
 
-- 🌱 I’m Junior Web Development
+- 🌱 I’m Junior Web & Mobile Developer
 - 🎮 Game Number One!
