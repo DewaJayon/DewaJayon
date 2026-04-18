@@ -29,13 +29,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/dwdejayon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/dewa.jayon.3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+<div align="center">
+  <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DewaJayon&theme=github_dark" alt="Profile Details" />
+  <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DewaJayon&theme=github_dark" alt="Repo Details" />
+  <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DewaJayon&theme=github_dark" alt="Commit Details" />
 </div>
 
 ###
